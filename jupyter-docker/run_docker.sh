@@ -1,2 +1,2 @@
 # example showing how to run docker container with hit detector
-sudo docker run -i -t -p 8000:8000 issuds/jupyterhub
+sudo docker run -p 80:8000 issuds/jphub python3 -m jupyterhub

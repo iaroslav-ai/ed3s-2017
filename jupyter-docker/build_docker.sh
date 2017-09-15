@@ -1,3 +1,2 @@
-sudo docker build -t issuds/jupyterhub .
-#sudo docker push issuds/jupyterhub
+sudo docker build -t issuds/jphub .
 
