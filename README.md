@@ -21,6 +21,6 @@ Docker container. For example, assuming that you have a folder `/home/ubuntu/per
 on your host machine, you can run container with such folder mounted to the user folder
 in container using:
 
-`sudo docker run -v /home/ubuntu/persistent:/home/user/persistent -p 80:8000 issuds/jphub python3 -m jupyterhub`
+`[sudo] docker run -v /home/ubuntu/persistent:/home/user/persistent -p 80:8000 issuds/jphub python3 -m jupyterhub`
 
 Any changes that you make to `persistent` folder will be saved outside the container.
