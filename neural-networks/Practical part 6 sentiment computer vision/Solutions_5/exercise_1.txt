@@ -1,0 +1,3 @@
+1.2. With learning rate of 10.0 the loss does not decrease, but only increases. This is due to the fact that training procedure becomes unstable whith high learning rates. With learning rate of 0.000001 almost does not change, which is becasue weights of deep net are almost not allowed to change. With 0.01, the best validation and training loss are achieved. 
+
+1.3. With 32 neurons 82.3% best validation accuracy is achieved. With 64 neurons, a slightly better accuracy of 82.7 is achieved. It is expected that with further increase of number of neurons the modelling power of the network will increase, and therefore it will be more prone to overfitting, which will lead to decrease in performance on the validaiton dataset.

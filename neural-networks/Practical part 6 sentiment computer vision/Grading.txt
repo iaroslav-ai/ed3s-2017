@@ -1,0 +1,17 @@
+Exercise 0: 
+-20p if missing
+
+Exercise 1: 
+-4p not reported that training loss almost does not change for the small learning rate (as weights are updated very slowly) and that loss actually increases for large learning rate.
+-2p did not report explicitly that training loss almost does not change for the small learning rate (as weights are updated very slowly) and that loss actually increases for large learning rate.
+-4p incorrectly reported that with increasing number of neurons used, the complexity of the model increases, which in turn increases the danger of overfitting. 
+-6p "What is your expectation towards change in validation accuracy with further
+increase of number of neurons?" there is no report on this. 
+-4p Missing number of parameters in training procedure.
+
+Exercise 2: 
+-4p no comparison with random guessing is reported
+-3p no random guessing accuracy is reported
+-6p it is not stated that labels are encoded as one hot encoding.
+-10p nothing is reported regarding the network with small first fully connected layer. This is a substantial part of the exercise. 
+-3p explanation is not entirely clear.

@@ -1,0 +1,5 @@
+1.2. One hot encoding is used to convert category labels to vectors.
+
+1.3. The best validation accuracy achieved is 65%. It is much better compared to ~10% accuracy obtained by random guess.
+
+1.4. Best validation error drops to around 10% - close to one with random guess, the reason being that due to very small size of dense layer and limited modelling power this block causes information losses in the signal it passes through. 
