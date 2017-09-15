@@ -1,6 +1,6 @@
 # ED3S'17
 
-Here you can find lecture slides as well as source code and solutions to hand on.
+Here you can find lecture slides as well as source code and solutions to hands on.
 
 ### Jupyter Hub image used for hands - on part
 
