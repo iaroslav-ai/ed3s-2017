@@ -1,8 +1,8 @@
-# ed3s-2017
+# ED3S'17
 
 Here you can find lecture slides as well as source code and solutions to hand on.
 
-# Jupyter Hub image used for hands - on part
+### Jupyter Hub image used for hands - on part
 
 The Docker image with all the dependencies is locted at:
 
