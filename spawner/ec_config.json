@@ -1,9 +1,0 @@
-{
-  "target_capacity": 5,
-  "instance_type": "m4.large",
-  "ami_image_id": "ami-3ed06651",
-  "aws_access_key": "~/iaroslav-frankfurt-ec.pem",
-  "aws_key_name": "iaroslav-frankfurt-ec",
-  "security_group": "sg-7996a612",
-  "iamfleetrole": "arn:aws:iam::761799855167:role/aws-ec2-spot-fleet-tagging-role"
-}
